@@ -6,13 +6,15 @@ title: Configuration Guide
 menu_title: Introduction
 menu_order: 1
 menu_node: parent
-version: 2.0
+version: 2
 github_link: config-guide/bk-config-guide.md
 redirect_from: /guides/v1.0/config-guide/bk-config-guide.html
+published: true
 ---
 
 <h2 id="configuration">Configure the Magento application</h2>
 You can configure the Magento application in any of the following ways:
+
 
 *	General configuration
 
@@ -41,7 +43,3 @@ You can configure the Magento application in any of the following ways:
 	*	<a href="{{page.baseurl}}config-guide/solr/solr-overview.html">Install and configure Solr</a>
 	*	<a href="{{page.baseurl}}config-guide/multi-master/multi-master.html">Split databases</a>
 	*	<a href="{{page.baseurl}}config-guide/mq/rabbitmq-overview.html">Message queues</a>
-
-
-
-
